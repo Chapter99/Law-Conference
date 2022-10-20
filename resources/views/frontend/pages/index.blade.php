@@ -21,7 +21,7 @@
                 <img class="img-fluid" src="{{ asset('assets/images/invite_speaker.jpg') }}" alt="">
             </div> --}}
             <div class="card border-primary px-4 pt-3 pb-1">
-                <h5 class="text-primary">ข่าวประชาสัมพันธ์</h5>
+                <h5 class="text-primary">ข่าวประชาสัมพันธ์ </h5>
                 <hr class="mt-0">
                 <ul>
                     {{-- <li><a href="{{ asset('downloads/รายงานสืบเนื่องจากการประชุมวิชาการ.pdf') }}" target="_blank">รายงานสืบเนื่องจากการประชุมวิชาการระดับชาติ (Proceedings)</a> <img src="{{ asset('assets/images/update4.gif') }}" alt=""></li>
