@@ -1,0 +1,1 @@
+ln -s /var/www/tsucon31/storage/app/public/payment /var/www/public/tsucon31/storage/
